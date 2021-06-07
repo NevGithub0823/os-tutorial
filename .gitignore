@@ -5,3 +5,7 @@
 *.elf
 *.sym
 .DS_STORE
+
+# files without extension
+**/*
+!**/*.*
